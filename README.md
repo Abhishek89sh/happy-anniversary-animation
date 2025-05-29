@@ -45,7 +45,7 @@ For more information on installing Node.js and npm, visit [Node.js](https://node
 
 
 ## Questions and Support
-If you have any questions or encounter issues, feel free to reach out to me on Instagram [Syntax Brdr](syntaxbrdr@gmail.com).
+If you have any questions or encounter issues, feel free to reach out to me on Email syntaxbrdr@gmail.com
     Feel free to copy and paste this into your [README file](README.md)!
 
 
