@@ -32,12 +32,6 @@ This will use the "Live Sass Compiler" configured in the project to watch for ch
 3.Live Compilation: 
 Any changes made to the SCSS file will be automatically compiled to CSS.
 
-Note: Ensure you have Node.js and npm installed before running the commands above.
-
-If you haven't installed "Live Sass Compiler" in your code editor, please install it to enable live compilation of SCSS to CSS.
-
-For more information on installing Node.js and npm, visit [Node.js](https://nodejs.org/en/) Downloads.
-
 ## Screenshots
 ![Screenshot 2023-11-14 132825](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/6391701d-7f5c-4671-bde0-05726ca08085)
 
