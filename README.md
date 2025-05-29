@@ -12,12 +12,6 @@ This project showcases an elegant sunflower animation crafted using HTML, SCSS, 
 
 ## Getting Started
 
-### Prerequisites
-Ensure you have the following prerequisites installed before starting:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
 ### Installation Guide
 1. **Clone the Repository:**
    ```bash
@@ -27,10 +21,7 @@ Ensure you have the following prerequisites installed before starting:
    ```bash
    cd sunflower-animation
    
-2. Install the required dependencies.
-   ```bash
-   npm install
- # Running the SCSS File
+ # Running the SCSS File (If not opened properly)
      To compile the SCSS file to CSS, follow these steps.
 1. Open a terminal in the project directory.
 2. Run the following command:
