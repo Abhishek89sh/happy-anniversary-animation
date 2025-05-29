@@ -4,7 +4,6 @@ This project showcases an elegant sunflower animation crafted using HTML, SCSS, 
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation Guide](#installation-guide)
   - [Running the SCSS File](#running-the-scss-file)
   - [Screenshots](#screenshots)
@@ -46,7 +45,7 @@ For more information on installing Node.js and npm, visit [Node.js](https://node
 
 
 ## Questions and Support
-If you have any questions or encounter issues, feel free to reach out to me on Instagram [yeowdoingood](https://www.instagram.com/yeowdoingood/).
+If you have any questions or encounter issues, feel free to reach out to me on Instagram [Syntax Brdr](syntaxbrdr@gmail.com).
     Feel free to copy and paste this into your [README file](README.md)!
 
 
